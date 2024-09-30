@@ -1,5 +1,5 @@
 {
-  "name": "login-nextjs-mongodb",
+  "name": "nextjs-mongodb-service",
   "version": "0.1.0",
   "private": true,
   "scripts": {
